@@ -1,0 +1,4 @@
+{
+    "extensions": [".py", ".js", ".java", ".c", ".cpp", ".cs"],
+    "log_file": "C:/dev/refactor/codefactor_log.txt"
+}
